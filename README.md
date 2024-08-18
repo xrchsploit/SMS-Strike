@@ -1,4 +1,4 @@
-# SMS-Strike
+# SMS-Strike: High school personal project
 SMS Bomber written in python
 
 Written in python3
